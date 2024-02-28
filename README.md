@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi there 👋, I'm Nishant Patel</h1>
-<h3 align="center">A Full Stack Developer in the process.</h3>
+<h3>A Full Stack Developer in the process.</h3>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 💬 Ask me about something that goes with **JS**
+- 🌱 I’m currently working on ...Web Development
 
 - 📫 How to reach me **nishantpatel7929@gmail.com**
 
@@ -15,7 +13,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">🔭 Tech Stack:</h3>
 <p align="left"> 
 <!--   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  -->
 <!--   </a> -->
