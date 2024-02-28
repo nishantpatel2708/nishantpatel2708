@@ -1,8 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h1 align="center">Hi there 👋, I'm Nishant Patel</h1>
+<h3 align="center">A Full Stack Developer in the process.</h3>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 💬 Ask me about something that goes with **JS**
+
+- 📫 How to reach me **nishantpatel7929@gmail.com**
+
+- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 <p align="left">
 </p>
